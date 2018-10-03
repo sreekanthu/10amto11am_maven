@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello how are u hi </h2>
+<h2>Hi this is my first tomcat project </h2>
 </body>
 </html>
